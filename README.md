@@ -2,12 +2,12 @@
 Context and date
 
 Description
-
+Creates a functioning FPS Maze Game with a menu, enemy, player, and sound.
 ## Implementation
-Which features you included
-
+Built using Godot 3.4.2
 ## References
-
+Based on the Kenney Character Assets provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+Animated Models Kit from Kenney.nl
 ## Future Development
 N/A
 
